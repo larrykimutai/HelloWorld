@@ -3,6 +3,8 @@ public class HelloWorld {
         System.out.println("Hello World!! This is a new branch" 
                            + "called newBranch"
                            + "newBranch2");
+        System.out.println("Hello World!! This is a new branch called newBranch" + 
+                           " changing the master");
 
         /*
         boolean = true / false statement
